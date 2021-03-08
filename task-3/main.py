@@ -1,6 +1,6 @@
-def add_hello(parm: list):  # : list notates the data type
-    parm.append("hello")
-    return parm
+def add_hello(param: list):  # : list notates the data type
+    param.append("hello")
+    return param
 
 
 random_words = ["list", "of", "word", "random"]
